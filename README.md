@@ -1,6 +1,6 @@
 # Sign Up Form Design
 
-An HTML and CSS design of a mock sign up form
+An HTML and CSS design of a mock sign up form.
 
 Inspired by the [Sign Up Form assignment](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form) as part of the curriculum for the [Intermediate HTML and CSS Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) on [The Odin Project](https://www.theodinproject.com).
 
