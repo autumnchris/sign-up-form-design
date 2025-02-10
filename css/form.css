@@ -38,7 +38,7 @@ textarea::placeholder {
   color: hsl(0, 0%, 60%);
 }
 
-input.red-outline {
+input:invalid {
   border: 1px solid #c70707;
 }
 
