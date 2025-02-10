@@ -11,3 +11,7 @@ Inspired by the [Sign Up Form assignment](https://www.theodinproject.com/lessons
 * HTML5
 * [Normalize.css](http://necolas.github.io/normalize.css)
 * [Google Fonts](https://fonts.google.com)
+
+## Demo
+
+View project demo at [https://autumnchris.github.io/sign-up-form-design](https://autumnchris.github.io/sign-up-form-design).
