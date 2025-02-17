@@ -1,3 +1,18 @@
+@font-face {
+  font-family: "PT Sans";
+  src: url(../assets/fonts/PTSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: "PT Sans Bold";
+  src: url(../assets/fonts/PTSans-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Delius Unicase Bold";
+  src: url(../assets/fonts/DeliusUnicase-Bold.ttf);
+}
+
 /* BASE PAGE STYLES */
 
 * {
@@ -55,12 +70,14 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: "PT Sans Bold", sans-serif;
+  font-weight: 700;
   margin-top: 0;
 }
 
 h1 {
   color: hsl(0, 0%, 100%);
-  font-family: "Delius Unicase", sans-serif;
+  font-family: "Delius Unicase Bold", sans-serif;
   font-size: 3.8rem;
   letter-spacing: 0;
   margin: 0;
@@ -108,6 +125,7 @@ textarea {
 }
 
 .bold {
+  font-family: "PT Sans Bold", sans-serif;
   font-weight: 700;
 }
 

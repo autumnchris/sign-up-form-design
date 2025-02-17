@@ -65,6 +65,7 @@ input:invalid {
 
 .form-group label {
   display: block;
+  font-family: "PT Sans Bold", sans-serif;
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 2px;
