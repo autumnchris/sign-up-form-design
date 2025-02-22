@@ -29,6 +29,7 @@ html {
 
 body {
   background: hsl(0, 0%, 95%);
+  color: hsl(0, 0%, 0%);
   min-height: 100%;
   -ms-scroll-chaining: none;
   overscroll-behavior: none;
@@ -122,6 +123,12 @@ optgroup,
 select,
 textarea {
   font-family: inherit;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
 }
 
 .bold {
